@@ -1,0 +1,50 @@
+{
+    "projects": [
+        {
+            "id": "0",
+            "project_name": "A Random Quote Generator",
+            "description": "This app is a random quote generator which displays quotations on a page and can be controlled by a user",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://archit2301.github.io/Random_Quote_Generator/",
+            "github_link": "https://github.com/Archit2301/Random_Quote_Generator",
+            "image_urls": ["../static/images/RandomQuote0.png" ,"../static/images/RandomQuote1.png", "../static/images/RandomQuote2.png", "../static/images/RandomQuote3.png"]
+        },
+        {
+            "id": "1",
+            "project_name": "List Pagination and Filtering",
+            "description": "This is an app to display a long list of paginated information",
+            "technologies": ["HTML", "CSS", "JavaScript"],
+            "live_link": "https://archit2301.github.io/List_Pagination_And_Filtering/#",
+            "github_link": "https://github.com/Archit2301/List_Pagination_And_Filtering",
+            "image_urls": ["../static/images/PageAndFilter0.png", "../static/images/PageAndFilter1.png", "../static/images/PageAndFilter2.png", "../static/images/PageAndFilter3.png"]
+        },
+        {
+            "id": "2",
+            "project_name": "Interactive Form",
+            "description": "This is an interactive registration form for a fictional conference called FullStack Conf.",
+            "technologies": ["HTML", "CSS", "JavaScript", "jQuery"],
+            "live_link": "https://archit2301.github.io/Interactive_Form/",
+            "github_link": "https://github.com/Archit2301/Interactive_Form",
+            "image_urls": ["../static/images/InteractiveForm0.png", "../static/images/InteractiveForm1.png", "../static/images/InteractiveForm2.png", "../static/images/InteractiveForm3.png"]
+        },
+        {
+            "id": "3",
+            "project_name": "OOP Game Show App",
+            "description": "This is a browser based fun word guessing game called Phase Hunter",
+            "technologies": ["HTML", "CSS", "JavaScript", "OOJS"],
+            "live_link": "https://archit2301.github.io/OOP_Game_Show_App/",
+            "github_link": "https://github.com/Archit2301/OOP_Game_Show_App",
+            "image_urls": ["../static/images/PhaseHunter0.png", "../static/images/PhaseHunter1.png", "../static/images/PhaseHunter2.png", "../static/images/PhaseHunter3.png"]
+        },
+        {
+            "id": "4",
+            "project_name": "Public API Request",
+            "description": "This is an app for a fictional company for employees to share contact information with each other",
+            "technologies": ["HTML", "CSS", "JavaScript", "AJAX"],
+            "live_link": "https://archit2301.github.io/Public_API_Request/",
+            "github_link": "https://github.com/Archit2301/Public_API_Request",
+            "image_urls": ["../static/images/PublicApi0.png", "../static/images/PublicApi1.png", "../static/images/PublicApi2.png", "../static/images/PublicApi3.png"]
+        }
+        
+    ]
+}
