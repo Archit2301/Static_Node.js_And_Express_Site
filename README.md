@@ -1,8 +1,6 @@
 *********************************
 # Static_Node.js_And_Express_Site
- My Sixth TechDegree Project
 *********************************
-
 
 --Description
 
