@@ -44,7 +44,42 @@
             "live_link": "https://archit2301.github.io/Public_API_Request/",
             "github_link": "https://github.com/Archit2301/Public_API_Request",
             "image_urls": ["../static/images/PublicApi0.png", "../static/images/PublicApi1.png", "../static/images/PublicApi2.png", "../static/images/PublicApi3.png"]
-        }
-        
+        },
+        {
+            "id": "5",
+            "project_name": "React Gallery App",
+            "description": "This is a single page application to request images from Flickr API using React",
+            "technologies": ["HTML", "CSS", "JavaScript", "React", "React DOM", "Props and State", "Data fetching in React"],
+            "live_link": "https://gallery-app-with-react.herokuapp.com/music",
+            "github_link": "https://github.com/Archit2301/react-gallery-app",
+            "image_urls": ["../static/images/ReactGalleryApp0.png", "../static/images/ReactGalleryApp1.png", "../static/images/ReactGalleryApp2.png", "../static/images/ReactGalleryApp3.png"]
+        },
+        {
+            "id": "6",
+            "project_name": "SQL Library Manager",
+            "description": "This is a CRUD application for a local library and uses SQL ORM to interact with SQLite database",
+            "technologies": ["HTML", "CSS", "JavaScript", "npm", "Node.js", "Express", "Pug", "SQLite", "SQL ORM Sequelize"],
+            "live_link": "#",
+            "github_link": "https://github.com/Archit2301/sql-library-manager",
+            "image_urls": ["../static/images/sql-library-manager0.png", "../static/images/sql-library-manager1.png", "../static/images/sql-library-manager2.png", "../static/images/sql-library-manager3.png"]
+        },
+        {
+            "id": "7",
+            "project_name": "REST API",
+            "description": "This is an API where users can interact with the database to create new course, update and delete them",
+            "technologies": ["JavaScript", "npm", "Node.js", "Express", "SQLite", "SQL ORM Sequelize", "REST API"],
+            "live_link": "#",
+            "github_link": "https://github.com/Archit2301/REST-API",
+            "image_urls": ["../static/images/RestApi0.png", "../static/images/RestApi1.png", "../static/images/RestApi2.png", "../static/images/RestApi3.png"]
+        },
+        {
+            "id": "8",
+            "project_name": "Full Stack App with React and Rest API",
+            "description": "This is a React app for a school database that authorize users to create profile and perform CRUD operations on the courses listed",
+            "technologies": ["HTML", "CSS", "JavaScript", "React", "React-DOM", "Node.js", "Express", "React Hooks", "React Authentication", "CORS", "npm", "SQLite", "SQL ORM Sequelize", "REST API", "REST API Validation and Authentication"],
+            "live_link": "#",
+            "github_link": "https://github.com/Archit2301/Full-Stack-App-with-React-and-a-REST-API",
+            "image_urls": ["../static/images/FullStackApp0.png", "../static/images/FullStackApp1.png", "../static/images/FullStackApp2.png", "../static/images/FullStackApp3.png"]
+        }       
     ]
 }
